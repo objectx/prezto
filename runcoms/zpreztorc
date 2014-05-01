@@ -25,17 +25,18 @@ zstyle ':prezto:*:*' color 'yes'
 # The order matters.
 zstyle ':prezto:load' pmodule \
   'environment' \
-  'terminal' \
-  'editor' \
-  'history' \
-  'history-substring-search' \
-  'directory' \
-  'spectrum' \
-  'utility' \
-  'completion' \
-  'macports' \
-  'git' \
-  'haskell' \
+  'terminal'    \
+  'editor'      \
+  'history'     \
+  'history-substring-search'    \
+  'directory'   \
+  'spectrum'    \
+  'utility'     \
+  'completion'  \
+  'osx'         \
+  'macports'    \
+  'git'         \
+  'haskell'     \
   'prompt'
 
 #
