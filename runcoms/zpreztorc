@@ -34,7 +34,7 @@ zstyle ':prezto:load' pmodule \
   'utility'     \
   'completion'  \
   'osx'         \
-  'macports'    \
+  'homebrew'    \
   'git'         \
   'haskell'     \
   'prompt'
