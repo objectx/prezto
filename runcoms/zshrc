@@ -13,5 +13,6 @@ fi
 # Customize to your needs...
 
 
-#THIS MUST BE AT THE END OF THE FILE FOR GVM TO WORK!!!
-[[ -s "/Users/objectx/.gvm/bin/gvm-init.sh" ]] && source "/Users/objectx/.gvm/bin/gvm-init.sh"
+#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
+export SDKMAN_DIR="/Users/objectx/.sdkman"
+[[ -s "/Users/objectx/.sdkman/bin/sdkman-init.sh" ]] && source "/Users/objectx/.sdkman/bin/sdkman-init.sh"
